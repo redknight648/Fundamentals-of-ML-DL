@@ -1,6 +1,8 @@
 # Fundamental
 ```
 From scratch Implementations of
+* Customer Profile Segmentation using Dimensionality Reduction and Clustering
+* Handling Imbalanced datasets using Undersampling-NearMiss algorithm & Oversampling-SMOTE
 * NLP preprocessing techniques using NLTK
 * autoencoders for anomaly detection
 * linear regression along with statistical tests
